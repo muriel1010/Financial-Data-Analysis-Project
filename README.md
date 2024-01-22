@@ -16,8 +16,11 @@ Deliverable:
 Spreadsheet tab with a forecasting model incorporating Best case, Weak case, and Base case scenarios.
 # Project Structure
 Spreadsheets:
-Summary_Statistics.xlsx: Includes summary statistics for Task 1.
-Dynamic_PnL_Statement.xlsx: Demonstrates the dynamic P&L Statement for Task 2.
-Forecasting_Model.xlsx: Implements the financial forecasting model for Task 3.
+Summary_Statistics.xlsx:  Includes summary statistics for Task 1.
+
+Dynamic_PnL_Statement.xlsx:  Demonstrates the dynamic P&L Statement for Task 2.
+
+Forecasting_Model.xlsx:  Implements the financial forecasting model for Task 3.
+
 # Contributors
 MURIEL TEMA
